@@ -1,0 +1,321 @@
+{
+  "playlist": {
+    "subscribers": [],
+    "subscribed": false,
+    "creator": {
+      "defaultAvatar": false,
+      "province": 440000,
+      "authStatus": 0,
+      "followed": false,
+      "avatarUrl": "http://p1.music.126.net/_yzCk9tGVAFgU6x6Z4DgLQ==/18724683022821921.jpg",
+      "accountStatus": 0,
+      "gender": 2,
+      "city": 440100,
+      "birthday": -2209017600000,
+      "userId": 420979341,
+      "userType": 0,
+      "nickname": "lz",
+      "signature": "",
+      "description": "",
+      "detailDescription": "",
+      "avatarImgId": 18724683022821921,
+      "backgroundImgId": 2002210674180203,
+      "backgroundUrl": "http://p1.music.126.net/bmA_ablsXpq3Tk9HlEg9sA==/2002210674180203.jpg",
+      "authority": 0,
+      "mutual": false,
+      "expertTags": null,
+      "experts": null,
+      "djStatus": 0,
+      "vipType": 0,
+      "remarkName": null,
+      "backgroundImgIdStr": "2002210674180203",
+      "avatarImgIdStr": "18724683022821921",
+      "avatarImgId_str": "18724683022821921"
+    },
+    "tracks": [
+      {
+        "name": "",
+        "id": 27937069,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 840134,
+            "name": "",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 100.0,
+        "st": 0,
+        "rt": "",
+        "fee": 0,
+        "v": 29,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 2698009,
+          "name": "",
+          "picUrl": "http://p1.music.126.net/EJHB2c7xrRPaOu_bEIBFcg==/5519548371566833.jpg",
+          "tns": [],
+          "pic": 5519548371566833
+        },
+        "dt": 266358,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10656958,
+          "vd": -1.11
+        },
+        "m": {
+          "br": 160000,
+          "fid": 0,
+          "size": 5328502,
+          "vd": -0.67
+        },
+        "l": {
+          "br": 96000,
+          "fid": 0,
+          "size": 3197119,
+          "vd": -0.72
+        },
+        "a": null,
+        "cd": "1",
+        "no": 1,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 2,
+        "s_id": 0,
+        "mst": 9,
+        "cp": 405024,
+        "mv": 210016,
+        "rtype": 0,
+        "rurl": null,
+        "publishTime": 1383667200007
+      },
+      {
+        "name": "Aurora Borealis",
+        "id": 29027341,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 37088,
+            "name": "John H. Clarke",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 100.0,
+        "st": 0,
+        "rt": null,
+        "fee": 0,
+        "v": 7,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 1846211,
+          "name": "String & Wood",
+          "picUrl": "http://p1.music.126.net/lfwqGiwdOwyG5kL9mMur7A==/6623458046303636.jpg",
+          "tns": [],
+          "pic": 6623458046303636
+        },
+        "dt": 322386,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 12898264,
+          "vd": -0.3
+        },
+        "m": {
+          "br": 160000,
+          "fid": 0,
+          "size": 6449155,
+          "vd": -0.000265076
+        },
+        "l": {
+          "br": 96000,
+          "fid": 0,
+          "size": 3869511,
+          "vd": -0.000265076
+        },
+        "a": null,
+        "cd": "1",
+        "no": 17,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 2,
+        "s_id": 0,
+        "mst": 9,
+        "cp": 0,
+        "mv": 0,
+        "rtype": 0,
+        "rurl": null,
+        "publishTime": 1312041600007
+      },
+      {
+        "name": "A Little Story",
+        "id": 857896,
+        "pst": 0,
+        "t": 0,
+        "ar": [
+          {
+            "id": 22247,
+            "name": "Valentin",
+            "tns": [],
+            "alias": []
+          }
+        ],
+        "alia": [],
+        "pop": 100.0,
+        "st": 0,
+        "rt": "",
+        "fee": 0,
+        "v": 13,
+        "crbt": null,
+        "cf": "",
+        "al": {
+          "id": 85527,
+          "name": "My View",
+          "picUrl": "http://p1.music.126.net/w0Xz0wMOhko2IU0_b-vJ8A==/18561955301992385.jpg",
+          "tns": [],
+          "pic_str": "18561955301992385",
+          "pic": 18561955301992385
+        },
+        "dt": 206471,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8293659,
+          "vd": -1.3
+        },
+        "m": {
+          "br": 160000,
+          "fid": 0,
+          "size": 4163178,
+          "vd": -0.9
+        },
+        "l": {
+          "br": 96000,
+          "fid": 0,
+          "size": 2510986,
+          "vd": -0.95
+        },
+        "a": null,
+        "cd": "1",
+        "no": 9,
+        "rtUrl": null,
+        "ftype": 0,
+        "rtUrls": [],
+        "djId": 0,
+        "copyright": 2,
+        "s_id": 0,
+        "mst": 9,
+        "cp": 663018,
+        "mv": 0,
+        "rtype": 0,
+        "rurl": null,
+        "publishTime": 1293811200000
+      }
+    ],
+    "trackIds": [
+      {
+        "id": 27937069,
+        "v": 29
+      },
+      {
+        "id": 29027341,
+        "v": 7
+      },
+      {
+        "id": 857896,
+        "v": 13
+      }
+    ],
+    "ordered": false,
+    "tags": [],
+    "cloudTrackCount": 0,
+    "subscribedCount": 0,
+    "playCount": 2,
+    "privacy": 0,
+    "newImported": false,
+    "coverImgId": 5519548371566833,
+    "createTime": 1487934375151,
+    "trackUpdateTime": 1524153457219,
+    "trackCount": 3,
+    "specialType": 0,
+    "updateTime": 1490678304501,
+    "commentThreadId": "A_PL_0_611331415",
+    "highQuality": false,
+    "coverImgUrl": "http://p1.music.126.net/EJHB2c7xrRPaOu_bEIBFcg==/5519548371566833.jpg",
+    "userId": 420979341,
+    "status": 0,
+    "adType": 0,
+    "trackNumberUpdateTime": 1490678304501,
+    "description": null,
+    "name": " *",
+    "id": 611331415,
+    "shareCount": 0,
+    "commentCount": 0
+  },
+  "code": 200,
+  "privileges": [
+    {
+      "id": 27937069,
+      "fee": 0,
+      "payed": 0,
+      "st": 0,
+      "pl": 320000,
+      "dl": 320000,
+      "sp": 7,
+      "cp": 1,
+      "subp": 1,
+      "cs": false,
+      "maxbr": 999000,
+      "fl": 320000,
+      "toast": false,
+      "flag": 2,
+      "preSell": false
+    },
+    {
+      "id": 29027341,
+      "fee": 0,
+      "payed": 0,
+      "st": 0,
+      "pl": 320000,
+      "dl": 320000,
+      "sp": 7,
+      "cp": 1,
+      "subp": 1,
+      "cs": false,
+      "maxbr": 999000,
+      "fl": 320000,
+      "toast": false,
+      "flag": 0,
+      "preSell": false
+    },
+    {
+      "id": 857896,
+      "fee": 0,
+      "payed": 0,
+      "st": 0,
+      "pl": 320000,
+      "dl": 320000,
+      "sp": 7,
+      "cp": 1,
+      "subp": 1,
+      "cs": false,
+      "maxbr": 192000,
+      "fl": 320000,
+      "toast": false,
+      "flag": 0,
+      "preSell": false
+    }
+  ]
+}

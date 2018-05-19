@@ -1,0 +1,494 @@
+{
+  "result": {
+    "songs": [
+      {
+        "id": 526892072,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 12258420,
+            "name": "AY",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          {
+            "id": 189840,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 37118020,
+          "name": "4U",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1513267200007,
+          "size": 1,
+          "copyrightId": 456010,
+          "status": 1,
+          "picId": 109951163095192292
+        },
+        "duration": 215333,
+        "copyrightId": 650011,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 5796125,
+        "fee": 8,
+        "rUrl": null
+      },
+
+
+
+      
+      {
+        "id": 4010884,
+        "name": "4u",
+        "artists": [
+          {
+            "id": 90097,
+            "name": "Capo Productions",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 405563,
+          "name": "Escape",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1262275200007,
+          "size": 20,
+          "copyrightId": 0,
+          "status": 1,
+          "picId": 6625657069970131
+        },
+        "duration": 126863,
+        "copyrightId": 0,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      },
+      {
+        "id": 523842075,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 189840,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          {
+            "id": 12258420,
+            "name": "AY",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 36961372,
+          "name": "4U",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1513072418016,
+          "size": 1,
+          "copyrightId": 0,
+          "status": 0,
+          "picId": 109951163082334394
+        },
+        "duration": 215333,
+        "copyrightId": 650011,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 5796125,
+        "fee": 8,
+        "rUrl": null
+      },
+      {
+        "id": 469957690,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 1044054,
+            "name": "R7CKY",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 35330738,
+          "name": "4U",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1491202759959,
+          "size": 1,
+          "copyrightId": 0,
+          "status": 0,
+          "picId": 109951162893681457
+        },
+        "duration": 164655,
+        "copyrightId": 0,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      },
+      {
+        "id": 16846084,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 90097,
+            "name": "Capo Productions",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 1552283,
+          "name": "Serenity",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1304265600000,
+          "size": 17,
+          "copyrightId": 5003,
+          "status": 1,
+          "picId": 663005511556827
+        },
+        "duration": 128000,
+        "copyrightId": 5003,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      },
+      {
+        "id": 28028879,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 20033,
+            "name": "KAT-TUN",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 2715736,
+          "name": "-kusabi-()",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1385481600007,
+          "size": 9,
+          "copyrightId": 0,
+          "status": 0,
+          "picId": 5829610650520107
+        },
+        "duration": 238654,
+        "copyrightId": 663018,
+        "status": -1,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      },
+      {
+        "id": 33861202,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 97296,
+            "name": "Midnight",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 3264132,
+          "name": "4U",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1423843200000,
+          "size": 1,
+          "copyrightId": 0,
+          "status": 0,
+          "picId": 3368903627758169
+        },
+        "duration": 229433,
+        "copyrightId": 0,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      },
+      {
+        "id": 34014798,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 845121,
+            "name": "Aero Chord",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 3270453,
+          "name": "Monstercat 023 - Voyage",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1439740800007,
+          "size": 32,
+          "copyrightId": 0,
+          "status": 0,
+          "picId": 7928578349678297
+        },
+        "duration": 244480,
+        "copyrightId": 0,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      },
+      {
+        "id": 463840604,
+        "name": "4U",
+        "artists": [
+          {
+            "id": 1178262,
+            "name": "Jordan Comolli",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 35235652,
+          "name": "4U",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1488556800007,
+          "size": 1,
+          "copyrightId": 0,
+          "status": 0,
+          "picId": 18494885092650601
+        },
+        "duration": 207124,
+        "copyrightId": 0,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      },
+      {
+        "id": 449336665,
+        "name": "foryou)",
+        "artists": [
+          {
+            "id": 12237285,
+            "name": "4U",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          }
+        ],
+        "album": {
+          "id": 35071955,
+          "name": "4U",
+          "artist": {
+            "id": 0,
+            "name": "",
+            "picUrl": null,
+            "alias": [],
+            "albumSize": 0,
+            "picId": 0,
+            "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "img1v1": 0,
+            "trans": null
+          },
+          "publishTime": 1336838400000,
+          "size": 7,
+          "copyrightId": 0,
+          "status": 0,
+          "picId": 109951162830459146
+        },
+        "duration": 245629,
+        "copyrightId": 0,
+        "status": 0,
+        "alias": [],
+        "rtype": 0,
+        "ftype": 0,
+        "mvid": 0,
+        "fee": 0,
+        "rUrl": null
+      }
+    ],
+    "songCount": 600
+  },
+  "code": 200
+}
