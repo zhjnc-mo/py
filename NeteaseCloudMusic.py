@@ -95,7 +95,7 @@ class CloudMusic():
 
             if req['code'] == 200:
                 #print req['data'][0]['url']
-            
+                song_name = song_name.replace("/", "_").replace("\"", "_").replace("\'", "_").replace("\\", "_").replace(".", "_")
                 fpath = os.path.join(dDir, song_name+'.mp3')
                 if os.path.exists(fpath):
                     return "歌曲已存在"
@@ -125,7 +125,8 @@ class CloudMusic():
         resp = requests.post(album_url, headers=header, timeout=10).json()
         if resp['code'] == 200 and len(resp['album']) > 0:
             #create dir
-            albumDir = os.path.join(self.downloadDir, resp['album']['name'])
+            albumName = resp['album']['name'].replace("/", "_").replace("\"", "_").replace("\'", "_").replace("\\", "_").replace(".", "_")
+            albumDir = os.path.join(self.downloadDir, albumName)
             if not os.path.exists(albumDir):
                 os.makedirs(albumDir)
 
@@ -158,6 +159,7 @@ class CloudMusic():
         ).json()
         
         if req['code'] == 200 and req['playlist']['trackCount'] > 0:
+            #mListDir = mListDir.replace("/", "_").replace("\"", "_").replace("\'", "_").replace("\\", "_").replace(".", "_")
             mListDir = os.path.join(self.downloadDir, str(req['playlist']['id']))
             if not os.path.exists(mListDir):
                 os.makedirs(mListDir)
@@ -171,7 +173,7 @@ class CloudMusic():
             reqs = threadpool.makeRequests(self.download_song_by_id, arg_list)
             map(self.pool.putRequest, reqs)
             self.pool.poll()
-            
+
             return "下载"+str(req['playlist']['trackCount'])+"首歌"
         else:
             return "无法找到歌单"
