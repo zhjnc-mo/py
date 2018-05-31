@@ -11,6 +11,7 @@ import hashlib
 import urllib
 import urllib2
 import json
+import threadpool
 import subprocess
 import requests
 from Crypto.Cipher import AES
@@ -35,24 +36,12 @@ aria2c_parameters = {
     'describe': 'The additional parameters when aria2c start to download something.'
 }
 
-class DownloadThread(threading.Thread):
-    def __init__(self, clm, threadID, song_id, nameSty, downDir):
-        super(DownloadThread, self).__init__()
-        self.threadID = threadID
-        self.song_id = song_id
-        self.nameSty = nameSty
-        self.downDir = downDir
-        self.clm = clm
-    def run(self):   #把要执行的代码写到run函数里面 线程在创建后会直接运行run函数 
-        print "thread running " + self.song_id
-        self.clm.download_song_by_id(self.song_id, self.nameSty, self.downDir)
-        pass
-
 class CloudMusic():
     def __init__(self, ui, txt):
         self.mUI = ui
         self.kgMusic = KuGouMusic()
         self.downloadDir = txt
+        self.pool = threadpool.ThreadPool(4)
         if not os.path.exists(self.downloadDir):
             os.makedirs(self.downloadDir)
     
@@ -83,7 +72,7 @@ class CloudMusic():
         data = {'params': encText, 'encSecKey': encSecKey}
         return data
         
-    def download_song_by_id(self, song_id, nameSty, dDir = "000"):
+    def download_song_by_id(self, song_id, nameSty=1, dDir = "000"):
         if dDir == "000":
             dDir = self.downloadDir
 
@@ -142,11 +131,14 @@ class CloudMusic():
 
             songs = resp['album']['songs']
 
+            arg_list = []
             for i in range(len(songs)):
-                thread1 = DownloadThread(self, i, str(songs[i]['id']), nameSty, albumDir)
-                thread1.start()
-                time.sleep(0.5) #休眠0.5s 
-                #self.download_song_by_id(str(songs[i]['id']), albumDir)
+                arg_list.append( (None, {'song_id':str(songs[i]['id']), 'nameSty':nameSty, 'dDir':albumDir}) )
+                
+            reqs = threadpool.makeRequests(self.download_song_by_id, arg_list)
+            map(self.pool.putRequest, reqs)
+            self.pool.poll()
+            
             return "下载"+str(len(songs))+"首歌"
         else:
             return "无法找到专辑"
@@ -171,10 +163,15 @@ class CloudMusic():
                 os.makedirs(mListDir)
 
             songs = req['playlist']['tracks']
+
+            arg_list = []
             for i in range(len(songs)):
-                thread1 = DownloadThread(self, i, str(songs[i]['id']), nameSty, mListDir)
-                thread1.start()
-                time.sleep(0.5) #休眠0.5s
+                arg_list.append( (None, {'song_id':str(songs[i]['id']), 'nameSty':nameSty, 'dDir':mListDir}) )
+
+            reqs = threadpool.makeRequests(self.download_song_by_id, arg_list)
+            map(self.pool.putRequest, reqs)
+            self.pool.poll()
+            
             return "下载"+str(req['playlist']['trackCount'])+"首歌"
         else:
             return "无法找到歌单"
